@@ -40,3 +40,9 @@ Emergency services contact app
 Currency converter tracker
 Long term, backpacking budgetter
 Bill splitter app
+Short simple game that can be played between people in line/on road trips
+A compass app that helps people face mecca while traveling
+Another safety app that warns people about areas with high sun exposure
+Travel log, by voice
+Common travel scam warnings
+
