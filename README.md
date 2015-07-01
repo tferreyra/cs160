@@ -1,1 +1,1 @@
-# cs160
+# CS160 User Interface Design
