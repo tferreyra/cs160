@@ -1,4 +1,4 @@
-Map of museums, points of interest to discover
+Map that shows the user museums and other points of interest to discover
 App that shows locally recommended locations (restaurants, cafes, hang out spots) for travelers to explore (irony problem since local spots could become tourist spots)
 Meetup app to have a language exchange with native speakers
 Language avatar to practice local language digitally with an interactive avatar
