@@ -7,16 +7,16 @@ Location aware facts app
 Map of tourists heat map
 Wait times for popular attractions
 Local recipes on wrist (local attraction cooking class?)
-High feature compass
-Vibration reminder (hydration, sunscreen, etc)
-Wilderness immersion reminder
-Wildlife info
-Star identifier
+High Feature Compass: a compass application for the watch interface, which allows the user to conviniently navigate without having to having to reach or fumble for a physcial compass, which is bother in situations such as backpacking trips.
+Sun Safety: an application that determines the temperature of the user's location and in conjunction with the user's activity levels (determined through the heart rate monitor), issues reminders to the user via vibration to drink water and apply sunscreen to avoid dehydration and sunburn.
+Wilderness Immersion Reminder: an application that sternly reminds the user to enjoy his or her time in the wilderness by displaying the reminder on the watch interface whenever the user tries to access applications related to entertainment or social media on either the watch or phone while the user is participating in an outdoors trip.
+Wildlife Guide: an application that allows the user to take pictures of unknown wildlife, and uses image recognition to identify the wildlife and provide the user with facts about the wildlife in question. 
+Star Identifier: an application that displays a constellation chart on the watch interface to assist the user in identifying constellations when stargazing, and is optimized to cause as little distraction as possible in the dark environment compared to a brightly lit smartphone.
 Mesh network communication
-Knot tying guide
-Emergency survival guide
-Body temp/heart rate emergency
-Pacing (physical exertion) utility
+Knot Tying Guide: an applicaiton that displays step-by-step instructions on how to tie differnet types of knots on the watch interface, which is useful in the outdoors and handy since both hands are occupied during the knot tying process.
+Emergency Survival Guide: an application that displays information on watch interface on how to survive in critical situations while outdoors, in the event that the user comes across an unexpected dangerous situation while outdoors and does not know how to respond.
+	Body Temperature/Heart Rate Monitor: an application that monitors the user's body temperature and heart rate, warns the user when his or her body temperature or heart rate is rising or dropping to dangerous levels, and alerts emergency services to the user's location once the user's body temperature or heart rate rises or drops past a critical threshold.
+Pacing Utility: an application, based on the length of the route the user plans to traverse, elevation changes on the intended route, the user's fitness level, and how strenuous the user wants his or her experience to be, tells the user the pace in which he or she should move at to finish the traversing the route in the shortest amount of time while avoiding exhaustion too early on.
 Environmental hazard location based
 People/friend tracker
 Beacons in trees
@@ -32,14 +32,14 @@ Hotel/hostel/Airbnb aggregator
 Pictures for attractions
 Culturally aware clock
 ID information
-Exchange information with handshake, bump
+Bump Information Exchanger: an application that allows users to bump smartwatches with each other to exchange contact information, such as phone number, email, and social media information.
 Bumped into social app/visualizer
 Nightlife app
 One button taxi app
 Emergency services contact app
 Currency converter tracker
-Long term, backpacking budgetter
-Bill splitter app
+Long Term Backpacking Budgetter: an application that allows to keep track of his or her budget while in a forgein country by allowing the user to enter his or her purchases into the application and displaying how much money to user has left in his or her native currency.
+Bill Splitter: application that calculates how a bill should be split among a group of people when paying for a meal, and can be linked to money transfer services such as Paypal or Venmo to automate payments in the case that one person foots the bill.
 Short simple game that can be played between people in line/on road trips
 A compass app that helps people face mecca while traveling
 Another safety app that warns people about areas with high sun exposure
