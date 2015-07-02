@@ -3,12 +3,13 @@
 
 - [] Brainstorm and Idea Selection
     + [] 50 ideas - must be described in one full sentence (all)
+    + [] Organize ideas that build on top of each other (ianto)
     + [] Sketch 10 ideas (all)
-    + [] Create more ideas that *build* on other ideas (all)
+    + [X] Create more ideas that *build* on other ideas (all)
 
 - [] Three Selected Ideas Descriptions
-    + [] Choose three ideas
-    + [] [] [] Short paragraphs for each chosen idea
+    + [] Choose three ideas (all)
+    + [] [] [] Short paragraphs for each chosen idea 
     + [] [] [] Project description for each idea
         * [] [] [] Target user group
         * [] [] [] Problem description and context
