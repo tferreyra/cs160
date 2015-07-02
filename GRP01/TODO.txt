@@ -4,7 +4,7 @@
 - [] Brainstorm and Idea Selection
     + [] 50 ideas - must be described in one full sentence (all)
     + [] Organize ideas that build on top of each other (ianto)
-    + [] Sketch 10 ideas (all)
+    + [] Sketch 5 ideas (all)
     + [X] Create more ideas that *build* on other ideas (all)
 
 - [] Three Selected Ideas Descriptions

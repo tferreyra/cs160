@@ -1,0 +1,22 @@
+#Team Name
+JITDr
+#Goals
+## Individual Personal Goals
+To get a good grade. To better humanity. To improve healthcare for underserved populations. To develop a good understanding of how to develop applications. 
+
+## Outcomes we are committed to achieve together
+### Team 
+Developing ourselves as a highly functional and efficient team. To recognize that we all have different strengths and weaknesses and to work together to help each other out through this process. 
+
+### Product
+Beautiful, useful, functional application, an application that inspires joy when used. An app that saves people time. We plan to scale the feature set of our final product to be within our resources and constraints. We would consider our product successful if users find our interactions engaging and helpful. 
+
+#Roles
+Deliverables will be distributed based on consensus and the group will hold that person responsible for this deliverable. Group members are encouraged to ask others for help if they find a deliverable more work than expected. Titiana and Ianto will take on design heavy deliverables. We predict that everyone will eventually depend on everyone else throughout this project and we will work to be responsive and respectful of each other's time and work. 
+
+Josef will handle quantitative and statistical aspects of the project. All members will work on programming aspects of the project, with David handling a significant portion of this work. Everyone will be involved in testing the app, with Ianto and Josef testing on physical devices. 
+
+#Team Procedures
+
+#Relationships
+Diversity: The members of our group report being similarly disciplined. We can all set our own checkpoint deadlines and meet them throughout a project. We also share similar learning styles with a preference for working alone and figuring systems out and asking group members for help when stuck. We are all intelligent individuals who can handle different opinions. We will work to settle differences in a mature and productive manner, aiming for mutual understanding and self-growth. 
