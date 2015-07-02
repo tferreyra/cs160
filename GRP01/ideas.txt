@@ -1,8 +1,8 @@
 Map that shows the user museums and other points of interest to discover
 App that shows locally recommended locations (restaurants, cafes, hang out spots) for travelers to explore (irony problem since local spots could become tourist spots)
-Meetup app to have a language exchange with native speakers
+Meet up app to have a language exchange with native speakers
 Language avatar to practice local language digitally with an interactive avatar
-App to meetup with locals and get a different perspective of the city
+App to meet up with locals and get a different perspective of the city
 Location aware facts app that will give out information and history about certain locations around the city depending on your location
 Map of tourists heat map in order to avoid heavily touristy locations
 Wait times for popular attractions in order to help plan out your itinerary
@@ -38,14 +38,14 @@ Nightlife: app to locate local bars and clubs and other nightlife spots
 One button taxi app to help drunk tourists get back to hotel/hostel/etc without struggle
 Emergency services contact app to notify those at home when you are in trouble and get immediate help
 Currency converter/tracker to help keep track of spending, especially when in a foreign currency
-Long Term Backpacking Budgetter: an application that allows to keep track of his or her budget while in a foregin country by allowing the user to enter his or her purchases into the application and displaying how much money to user has left in his or her native currency.
+Long Term Backpacking Budgeter: an application that allows to keep track of his or her budget while in a foreign country by allowing the user to enter his or her purchases into the application and displaying how much money to user has left in his or her native currency.
 Bill Splitter: application that calculates how a bill should be split among a group of people when paying for a meal, and can be linked to money transfer services such as Paypal or Venmo to automate payments in the case that one person foots the bill.
 Short simple game that can be played between people in line/on road trips
 A compass app that helps people face mecca while traveling
 Another safety app that warns people about areas with high sun exposure as to avoid or at least prepare for these locations
 Travel log, by voice, so travelers can keep track of what they have done on their trip and look back on their memories
 Common travel scam warnings so naive travelers are aware of what to avoid
-Pickpocket: Wallet is linked with phone so travelers will be warned when they have been pickpocketed 
+Pickpocket: Wallet is linked with phone so travelers will be warned when they have been victim of pickpocketing
 Zombie Run: Similar to the Zombie Run app, encourages travelers to “run” from zombies meanwhile exploring the city
 Danger: warns travelers about dangerous zones to avoid, locations of high crime activity, etc
 Free running: Users share their free run routes for other people to follow
