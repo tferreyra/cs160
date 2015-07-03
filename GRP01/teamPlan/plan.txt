@@ -17,6 +17,7 @@ Deliverables will be distributed based on consensus and the group will hold that
 Josef will handle quantitative and statistical aspects of the project. All members will work on programming aspects of the project, with David handling a significant portion of this work. Everyone will be involved in testing the app, with Ianto and Josef testing on physical devices. 
 
 #Team Procedures
+The team will operate by consensus. Meetings will be used for group planning decisions. Working meetings are also encouraged. During meetings, a group member will volunteer as scribe and a faciliator may be chosen if found necessary. Conversations during meetings should remain respectful and productive, with the task-at-hand considered the greatest priority. We will meet face-to-face when class time allows and at other times at our disgression. We will use Slack for group communication and Github for storage of all work materials. The best times for us to work are workday evenings after 5PM, and weekends. 
 
 #Relationships
 Diversity: The members of our group report being similarly disciplined. We can all set our own checkpoint deadlines and meet them throughout a project. We also share similar learning styles with a preference for working alone and figuring systems out and asking group members for help when stuck. We are all intelligent individuals who can handle different opinions. We will work to settle differences in a mature and productive manner, aiming for mutual understanding and self-growth. 

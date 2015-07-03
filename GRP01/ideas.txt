@@ -1,52 +1,52 @@
 Map that shows the user museums and other points of interest to discover
-App that shows locally recommended locations (restaurants, cafes, hang out spots) for travelers to explore (irony problem since local spots could become tourist spots)
+    App that shows locally recommended locations (restaurants, cafes, hang out spots) for travelers to explore (irony problem since local spots could become tourist spots)
+    Location aware facts app that will give out information and history about certain locations around the city depending on your location
+    Map of tourists heat map in order to avoid heavily touristy locations
+    Wait times for popular attractions in order to help plan out your itinerary
+    Pictures for attractions to better recognize where you need to go since many tourists are not familiar with what certain locations should look like
+    Nightlife: app to locate local bars and clubs and other nightlife spots
+Culturally aware clock to give visitors a better sense about the concept of time in their current local (i.e. some cultures always arrive late, others early, different colloquial definitions of "now"). 
 Meet up app to have a language exchange with native speakers
+    App to meet up with locals and get a different perspective of the city
 Language avatar to practice local language digitally with an interactive avatar
-App to meet up with locals and get a different perspective of the city
-Location aware facts app that will give out information and history about certain locations around the city depending on your location
-Map of tourists heat map in order to avoid heavily touristy locations
-Wait times for popular attractions in order to help plan out your itinerary
 Local recipes on wrist to facilitate when cooking (local attraction cooking class?)
 High Feature Compass: a compass application for the watch interface, which allows the user to conveniently navigate without having to having to reach or fumble for a physical compass, which is bother in situations such as backpacking trips.
-Sun Safety: an application that determines the temperature of the user's location and in conjunction with the user's activity levels (determined through the heart rate monitor), issues reminders to the user via vibration to drink water and apply sunscreen to avoid dehydration and sunburn.
+    A compass app that helps people face mecca for prayer while traveling
 Wilderness Immersion Reminder: an application that sternly reminds the user to enjoy his or her time in the wilderness by displaying the reminder on the watch interface whenever the user tries to access applications related to entertainment or social media on either the watch or phone while the user is participating in an outdoors trip.
 Wildlife Guide: an application that allows the user to take pictures of unknown wildlife, and uses image recognition to identify the wildlife and provide the user with facts about the wildlife in question. 
-Star Identifier: an application that displays a constellation chart on the watch interface to assist the user in identifying constellations when stargazing, and is optimized to cause as little distraction as possible in the dark environment compared to a brightly lit smartphone.
+    Star Identifier: an application that displays a constellation chart on the watch interface to assist the user in identifying constellations when stargazing, and is optimized to cause as little distraction as possible in the dark environment compared to a brightly lit smartphone.
 Messaging app: Unique messaging that uses mesh networks instead of traditional centralized cell towers for communication. This would be useful in underdeveloped areas where speedy cell towers are less common.
-Knot Tying Guide: an application that displays step-by-step instructions on how to tie different types of knots on the watch interface, which is useful in the outdoors and handy since both hands are occupied during the knot tying process.
 Emergency Survival Guide: an application that displays information on watch interface on how to survive in critical situations while outdoors, in the event that the user comes across an unexpected dangerous situation while outdoors and does not know how to respond.
 	Body Temperature/Heart Rate Monitor: an application that monitors the user's body temperature and heart rate, warns the user when his or her body temperature or heart rate is rising or dropping to dangerous levels, and alerts emergency services to the user's location once the user's body temperature or heart rate rises or drops past a critical threshold.
+    Knot Tying Guide: an application that displays step-by-step instructions on how to tie different types of knots on the watch interface, which is useful in the outdoors and handy since both hands are occupied during the knot tying process.
+    Sun Safety: an application that determines the temperature of the user's location and in conjunction with the user's activity levels (determined through the heart rate monitor), issues reminders to the user via vibration to drink water and apply sunscreen to avoid dehydration and sunburn.
+        Another safety app that warns people about areas with high sun exposure as to avoid or at least prepare for these locations
+    App that will warn you about environmental hazards in your location
+    Beacons in trees to prevent people from getting lost in the woods. 
 Pacing Utility: an application, based on the length of the route the user plans to traverse, elevation changes on the intended route, the user's fitness level, and how strenuous the user wants his or her experience to be, tells the user the pace in which he or she should move at to finish the traversing the route in the shortest amount of time while avoiding exhaustion too early on.
-App that will warn you about environmental hazards in your location
 People/friend tracker so as not to get separated from your group when traveling with large groups
-Beacons in trees to facilitate communication
-Family attraction decision maker that will take in everyone’s preferences and find an appropriate attraction to go to so that everyone is happy
-Synchronize plans for large groups/family - wrist itinerary
-Vacation mode that enforces no emails, work, etc. (“do not disturb”) to help facilitate relaxation while on vacation
-Vacation family therapy in order to aid with family issues that arise during the duration of the trip
+    Family attraction decision maker that will take in everyone’s preferences and find an appropriate attraction to go to so that everyone is happy
+        Synchronize plans for large groups/family - wrist itinerary
+            Itinerary coordinator to better plan time for transportation, etc
+    Vacation mode that enforces no emails, work, etc. (“do not disturb”) to help facilitate relaxation while on vacation
+    Vacation family therapy in order to aid with family issues that arise during the duration of the trip
 Sleep lag avoider that advises you when to sleep/wake up as to avoid jet lag and sends vibration reminders to make sure that you are staying awake and alert
-Itinerary coordinator to better plan time for transportation, etc
-Uber/Lyft/Taxi price checker to compare existing local prices
+One button taxi app to help drunk tourists get back to hotel/hostel/etc without struggle
+    Uber/Lyft/Taxi price checker to compare existing local prices
+        Hotel/hostel/Airbnb aggregator to easily find a place to stay for those who have not found one prior
 Local traffic condition to avoid traffic on your commute
-Hotel/hostel/Airbnb aggregator to easily find a place to stay for those who have not found one prior
-Pictures for attractions to better recognize where you need to go since many tourists are not familiar with what certain locations should look like
-Culturally aware clock to give visitors a better sense about the concept of time in their current local (i.e. some cultures always arrive late, others early)
 ID information so that the user does not need to carry important documents with them physically
 Bump Information Exchanger: an application that allows users to bump smartwatches with each other to exchange contact information, such as phone number, email, and social media information.
-Bumped Into: social app/visualizer to keep track of everyone you ran into. Shows the user a map of where they encounter all these people
-Nightlife: app to locate local bars and clubs and other nightlife spots
-One button taxi app to help drunk tourists get back to hotel/hostel/etc without struggle
-Emergency services contact app to notify those at home when you are in trouble and get immediate help
+    Bumped Into: social app/visualizer to keep track of everyone you ran into. Shows the user a map of where they encounter all these people
 Currency converter/tracker to help keep track of spending, especially when in a foreign currency
 Long Term Backpacking Budgeter: an application that allows to keep track of his or her budget while in a foreign country by allowing the user to enter his or her purchases into the application and displaying how much money to user has left in his or her native currency.
-Bill Splitter: application that calculates how a bill should be split among a group of people when paying for a meal, and can be linked to money transfer services such as Paypal or Venmo to automate payments in the case that one person foots the bill.
+    Bill Splitter: application that calculates how a bill should be split among a group of people when paying for a meal, and can be linked to money transfer services such as Paypal or Venmo to automate payments in the case that one person foots the bill.
 Short simple game that can be played between people in line/on road trips
-A compass app that helps people face mecca while traveling
-Another safety app that warns people about areas with high sun exposure as to avoid or at least prepare for these locations
 Travel log, by voice, so travelers can keep track of what they have done on their trip and look back on their memories
 Common travel scam warnings so naive travelers are aware of what to avoid
-Pickpocket: Wallet is linked with phone so travelers will be warned when they have been victim of pickpocketing
+    Pickpocket: Wallet is linked with phone so travelers will be warned when they have been victim of pickpocketing
+    Danger: warns travelers about dangerous zones to avoid, locations of high crime activity, etc
+    Emergency services contact app to notify those at home when you are in trouble and get immediate help
 Zombie Run: Similar to the Zombie Run app, encourages travelers to “run” from zombies meanwhile exploring the city
-Danger: warns travelers about dangerous zones to avoid, locations of high crime activity, etc
-Free running: Users share their free run routes for other people to follow
+    Free running: Users share their free run routes for other people to follow
 
