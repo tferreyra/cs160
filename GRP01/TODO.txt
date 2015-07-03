@@ -20,7 +20,7 @@
         * [] [] [] Outside validation 
 
 - [] Team Plan
-    + [] Our goals 
-    + [] Our roles
-    + [] Team Procedures 
-    + [] Relationships
+    + [X] Our goals 
+    + [X] Our roles
+    + [] Team Procedures (ianto)
+    + [X] Relationships
