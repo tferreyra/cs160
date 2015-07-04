@@ -1,5 +1,5 @@
 #Team Name
-JITDr
+Just In Time Development (JITD)
 #Goals
 ## Individual Personal Goals
 To get a good grade. To better humanity. To improve healthcare for underserved populations. To develop a good understanding of how to develop applications. 

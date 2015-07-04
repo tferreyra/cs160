@@ -1,14 +1,14 @@
 #GRP01
-- [] Group name (all)
+- [X] Group name (all)
 
-- [] Brainstorm and Idea Selection
-    + [] 50 ideas - must be described in one full sentence (all)
-    + [] Organize ideas that build on top of each other (ianto)
-    + [] Sketch 5 ideas (all)
+- [X] Brainstorm and Idea Selection
+    + [X] 50 ideas - must be described in one full sentence (all)
+    + [X] Organize ideas that build on top of each other (ianto)
+    + [X] Sketch 5 ideas (all)
     + [X] Create more ideas that *build* on other ideas (all)
 
 - [] Three Selected Ideas Descriptions
-    + [] Choose three ideas (all)
+    + [X] Choose three ideas (all)
     + [] [] [] Short paragraphs for each chosen idea 
     + [] [] [] Project description for each idea
         * [] [] [] Target user group
@@ -19,8 +19,8 @@
         * [] [] [] Sketches
         * [] [] [] Outside validation 
 
-- [] Team Plan
+- [X] Team Plan
     + [X] Our goals 
     + [X] Our roles
-    + [] Team Procedures (ianto)
+    + [X] Team Procedures (ianto)
     + [X] Relationships
