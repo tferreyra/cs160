@@ -1,0 +1,44 @@
+- [ ] Logistics
+    + [ ] Short description of team member contributions
+
+- [ ] Contextual inquiry
+    + [ ] Interview of three target users, and environment of their work
+    + [ ] Relevant background on each subject
+    + [ ] Write up interviews 
+
+- [ ] Task analysis
+    1. Who is going to use system?
+    2. What tasks do they now perform? 
+    3. What tasks are desired?
+    4. How are the tasks learned?
+    5. Where are the tasks performed?
+    6. What’s the relationship between user & data? 
+    7. What other tools does the user have?
+    8. How do users communicate with each other? 
+    9. How often are the tasks performed?
+    10. What are the time constraints on the tasks? 
+    11. What happens when things go wrong?
+
+- [ ] Task Definition
+    + [ ] Problem that application addresses. Short explanation of how this problem is addressed. 
+    + [ ] 6 tasks in moderate detail
+        + [ ] 2 Easy 
+        + [ ] 2 Moderate
+        + [ ] 2 Difficult
+    + [ ] How easy to perform with existing tools and applications
+    + [ ] How difficult to perform with proposed application
+
+- [ ] Proposed interface explanation
+    + [ ] Functionality summary (what you can do with it)
+    + [ ] Descriptions, sketches, mockups
+    + [ ] Three scenarios of example tasks with sketches
+
+- [ ] Competitive Analysis
+    + [ ] Find three most related applications
+        + [ ] Target user group
+        + [ ] Functionality
+        + [ ] Usability
+    + [ ] Summary
+        + [ ] Value proposition of our application compared with competitors? 
+        + [ ] Description of how proposed application will differ. 
+
