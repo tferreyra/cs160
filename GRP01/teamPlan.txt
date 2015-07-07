@@ -1,23 +1,22 @@
 #Team Name
 Just In Time Development (JITD)
+
+#Team Members
+Ianto Xi
+Tatiana Ferreyra
+David Ju
+Josef Nunez
+
 #Goals
 ## Individual Personal Goals
-To get a good grade. To better humanity. To improve healthcare for underserved populations. To develop a good understanding of how to develop applications. 
-
-## Outcomes we are committed to achieve together
-### Team 
-Developing ourselves as a highly functional and efficient team. To recognize that we all have different strengths and weaknesses and to work together to help each other out through this process. 
-
-### Product
-Beautiful, useful, functional application, an application that inspires joy when used. An app that saves people time. We plan to scale the feature set of our final product to be within our resources and constraints. We would consider our product successful if users find our interactions engaging and helpful. 
+The individual personal goals that members of our team have are to get a good grade in the course, to develop a good understanding of how to develop a mobile application, to help better humanity, to improve healthcare for underserved populations, and to understand how different design choices will impact the end user experience. As a team, we are motivated to develop ourselves as a highly functional and efficient team, and recognize that we all have different strengths and weaknesses which will allow us to work together and help each other out throughout this process. Given the knowledge we will obtain and skills we will acquire in this class, we fully believe that these goals are definitely achievable by the end of this course. We plan to scale the features of our final product, once we establish what that will be, to be within our resources and time constraints. We will consider ourselves successful if users find the end product that we create to be an app that is aesthetically beautiful, useful, functional, helps saves people time, and inspires joy when used. Our group will be more than satisfied to know that users can interact with our final product in an engaging and helpful manner, and if we can deliver to them such a pleasing user experience, we will consider ourselves successful. 
 
 #Roles
-Deliverables will be distributed based on consensus and the group will hold that person responsible for this deliverable. Group members are encouraged to ask others for help if they find a deliverable more work than expected. Titiana and Ianto will take on design heavy deliverables. We predict that everyone will eventually depend on everyone else throughout this project and we will work to be responsive and respectful of each other's time and work. 
-
-Josef will handle quantitative and statistical aspects of the project. All members will work on programming aspects of the project, with David handling a significant portion of this work. Everyone will be involved in testing the app, with Ianto and Josef testing on physical devices. 
+We have agreed that deliverables will be distributed based on the consensus of the whole team with each assignment. Group members are encouraged to ask others for help if they find that the tasks they are assigned turn out to require more work than expected, and it is strongly emphasized that we are here to support each other as a team. Tatiana and Ianto, both being more design-oriented, will tend to take on deliverables that require heavy design work. Josef, having a strong statistical background, will tend to handle the quantitative and computational aspects of the project. Everyone will contribute to the programming aspects of this project, but since David is more programming-oriented, he will tend to handle a more significant portion of such work compared to other members. Everyone will be involved in testing, with Josef and Ianto being responsible in testing on the physical devices that they own. Since our team members are a mixture of different strengths and weaknesses, we predict that everyone will eventually depend on everyone else throughout this project and we will work to be responsive and respectful of each other's time and contributions.
 
 #Team Procedures
-The team will operate by consensus. Meetings will be used for group planning decisions. Working meetings are also encouraged. During meetings, a group member will volunteer as scribe and a faciliator may be chosen if found necessary. Conversations during meetings should remain respectful and productive, with the task-at-hand considered the greatest priority. We will meet face-to-face when class time allows and at other times at our disgression. We will use Slack for group communication and Github for storage of all work materials. The best times for us to work are workday evenings after 5PM, and weekends. 
+The decision process our team operate by is through consensus. Since we do anticipate on being able to have enough time during class to discuss everything we need to, team meetings outside of class time is encouraged. During meetings, a group member will volunteer as scribe to record meeting minutes and send it out the group afterwards. To ensure that the meetings make the most effective use out of everyone's time, members will contribute to a meeting agenda beforehand so that everyone can over the discussion topics and have ideas ready to bring to the table. Although we do not anticipate going off track, a facilitator will be chosen if necessary to keep the discussions relevant to the topics at hand. Conversations at group meetings should remain respectful and productive, with the task-at-hand considered the greatest priority. We will be using Slack for group communication and Github for storage of all work materials. For meetings, our team has decided that the best times for us to gather outside of class to work are weekday evenings after 5PM and weekends.
+
 
 #Relationships
-Diversity: The members of our group report being similarly disciplined. We can all set our own checkpoint deadlines and meet them throughout a project. We also share similar learning styles with a preference for working alone and figuring systems out and asking group members for help when stuck. We are all intelligent individuals who can handle different opinions. We will work to settle differences in a mature and productive manner, aiming for mutual understanding and self-growth. 
+After some discussion, we have found that the members of our group are similarly disciplined. We are fully capable of setting and meeting deadlines that are set throughout a project, and we also share similar learning styles with a preference for initially working alone and figuring systems out for ourselves, and then turning to group members for help and advice when stuck. We are all intelligent individuals who can handle different opinions, and we recognize that criticisms that we may give and receive from each other are not meant to put each other down, put to help each other improve and get better. If we do encounter differences later in the semester, we will settle those differences in a mature and productive manner, aiming for mutual understanding and self-growth.
