@@ -6,7 +6,7 @@
     + [ ] Relevant background on each subject
     + [ ] Write up interviews 
 
-- [ ] Task analysis [Ianto]
+- [ ] Task analysis [David]
     1. Who is going to use system?
     2. What tasks do they now perform? 
     3. What tasks are desired?
@@ -19,7 +19,7 @@
     10. What are the time constraints on the tasks?
     11. What happens when things go wrong?
 
-- [ ] Task Definition [Josef, Ianto, David]
+- [ ] Task Definition [Josef, Ianto]
     + [ ] Problem that application addresses. Short explanation of how this problem is addressed. 
     + [ ] 6 tasks in moderate detail
         + [ ] 2 Easy
