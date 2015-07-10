@@ -1,12 +1,15 @@
 - [ ] Logistics
     + [ ] Short description of team member contributions
 
-- [ ] Contextual inquiry [Tatiana]
+- [ ] Problem and Solution overview (3 pts) [Ianto, Josef] 
+
+- [ ] Contextual inquiry [Tatiana] (10 pts)
+    + [ ] Target Users (8 points)
     + [ ] Interview of three target users, and environment of their work
     + [ ] Relevant background on each subject
     + [ ] Write up interviews 
 
-- [ ] Task analysis [David]
+- [ ] Task analysis [David] (5 pts)
     1. Who is going to use system?
     2. What tasks do they now perform? 
     3. What tasks are desired?
@@ -19,7 +22,7 @@
     10. What are the time constraints on the tasks?
     11. What happens when things go wrong?
 
-- [ ] Task Definition [Josef, Ianto]
+- [ ] Task Definition [Josef, Ianto] (10 pts)
     + [ ] Problem that application addresses. Short explanation of how this problem is addressed. 
     + [ ] 6 tasks in moderate detail
         + [ ] 2 Easy
@@ -28,12 +31,12 @@
     + [ ] How easy to perform with existing tools and applications
     + [ ] How difficult to perform with proposed application
 
-- [ ] Proposed interface explanation [Ianto, Josef]
+- [ ] Proposed interface explanation [Ianto, Josef] (15 pts)
     + [ ] Functionality summary (what you can do with it)
     + [ ] Descriptions, sketches, mockups
     + [ ] Three scenarios of example tasks with sketches
 
-- [ ] Competitive Analysis [David]
+- [ ] Competitive Analysis [David] (9 pts)
     + [ ] Find three most related applications
         + [ ] Target user group
         + [ ] Functionality
