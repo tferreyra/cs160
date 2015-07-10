@@ -1,0 +1,32 @@
+#Entering User Information (Moderate)
+##Notes
+Timezones
+Date of arrivals
+Current sleep schedule
+
+#Understanding and selecting strategies (Hard)
+##Notes
+Many different strategies to choose between. 
+- Sleeping at different times
+- Limiting light
+- Taking melatonin
+
+#Implementing Sleep Strategy (Hard)
+##Notes
+Being notified of having to go to sleep or waking up at a time.
+Sensing heart rate
+Sensing ambient light
+
+#Checking Sleep Schedule Details (Easy)
+##Notes
+When to go to sleep. 
+What parameters user set up. 
+Checking time on watch in current and target timezone. 
+
+#Evaluating Strategies (Moderate)
+##Notes
+Record personal comments and star rating of strategies
+
+#View history of uses (Easy)
+##Notes
+View personal comments and star ratings of previous strategies and trips 
