@@ -1,32 +1,24 @@
-#Entering User Information (Moderate)
-##Notes
-Timezones
-Date of arrivals
-Current sleep schedule
+#Entering Travel Information (Moderate)
+To understand the parameters of a user's trip and potential jet lag, our application will first ask users about the details of their trip. We need to understand the following variables: 
+- Origin Timezone
+- Destination Timezone
+- Day of travel
+- Current Sleep Schedule
+- Target Sleep Schedule
+User will need to input this information for our app to perform the calcustions necessary to plan out their sleep strategy. Users will go through multiple screens that present this information in an appealing way. 
 
 #Understanding and selecting strategies (Hard)
-##Notes
-Many different strategies to choose between. 
-- Sleeping at different times
-- Limiting light
-- Taking melatonin
+Our app will one central strategy for helping users reset their sleep cycles, with two strategies that are optional but recommended. All users will be guided through a step-wise sleep adjustment process, where our app plans out and advises users to sleep later or earlier each day to adjust to their Target Sleep Schedule in their Destination Timezone. Users can now monitor their light exposure and be advised to change their light exposure to better match their destination timezone. Users can also be informed of the optimal time to take melatonin. 
 
 #Implementing Sleep Strategy (Hard)
-##Notes
-Being notified of having to go to sleep or waking up at a time.
-Sensing heart rate
-Sensing ambient light
+It will be the user's task to implement the sleep strategy that we provide. The watch will try to assist with this by providing gentle reminders of our suggested sleep, light, and melatonin schedules. 
 
 #Checking Sleep Schedule Details (Easy)
-##Notes
-When to go to sleep. 
-What parameters user set up. 
-Checking time on watch in current and target timezone. 
+Users can check out the details of the strategy that we provide them. The most important piece of information is when they should sleep each night. Other details to check includes their set target sleep time, the daylight cycle of their destination timezone, the current time in their origin and destination timezone, and their selected strategies. 
+Such information can be duplicated onto a custom watchface. 
 
 #Evaluating Strategies (Moderate)
-##Notes
-Record personal comments and star rating of strategies
+After a sleep strategy has been implemented, users can record notes and rate the strategy on its effectiveness.
 
 #View history of uses (Easy)
-##Notes
-View personal comments and star ratings of previous strategies and trips 
+Users should be able to access their sleep strategy logs from all of their trips. 
