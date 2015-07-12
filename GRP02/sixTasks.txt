@@ -1,4 +1,4 @@
-#Entering Travel Information (Moderate)
+#Entering Travel Information (Moderate) [Video]
 To understand the parameters of a user's trip and potential jet lag, our application will first ask users about the details of their trip. We need to understand the following variables: 
 - Origin Timezone
 - Destination Timezone
@@ -10,15 +10,15 @@ User will need to input this information for our app to perform the calcustions 
 #Understanding and selecting strategies (Hard)
 Our app will one central strategy for helping users reset their sleep cycles, with two strategies that are optional but recommended. All users will be guided through a step-wise sleep adjustment process, where our app plans out and advises users to sleep later or earlier each day to adjust to their Target Sleep Schedule in their Destination Timezone. Users can now monitor their light exposure and be advised to change their light exposure to better match their destination timezone. Users can also be informed of the optimal time to take melatonin. 
 
-#Implementing Sleep Strategy (Hard)
+#Implementing Sleep Strategy (Hard) [Video]
 It will be the user's task to implement the sleep strategy that we provide. The watch will try to assist with this by providing gentle reminders of our suggested sleep, light, and melatonin schedules. 
 
 #Checking Sleep Schedule Details (Easy)
 Users can check out the details of the strategy that we provide them. The most important piece of information is when they should sleep each night. Other details to check includes their set target sleep time, the daylight cycle of their destination timezone, the current time in their origin and destination timezone, and their selected strategies. 
 Such information can be duplicated onto a custom watchface. 
 
-#Evaluating Strategies (Moderate)
+#Evaluating Strategies (Moderate) [Video]
 After a sleep strategy has been implemented, users can record notes and rate the strategy on its effectiveness.
 
-#View history of uses (Easy)
+#View history of uses (Easy) [Video]
 Users should be able to access their sleep strategy logs from all of their trips. 
