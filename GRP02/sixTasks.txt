@@ -7,18 +7,29 @@ To understand the parameters of a user's trip and potential jet lag, our applica
 - Target Sleep Schedule
 User will need to input this information for our app to perform the calcustions necessary to plan out their sleep strategy. Users will go through multiple screens that present this information in an appealing way. 
 
+User may google different time zones find differences. This can be mentally taxing. In this app, the user only needs to enter in their location and destination. This task is of moderate difficulty because users may need to look up flight data. It requires active engagement, compared to passive consumption. 
+
 #Understanding and selecting strategies (Hard)
 Our app will one central strategy for helping users reset their sleep cycles, with two strategies that are optional but recommended. All users will be guided through a step-wise sleep adjustment process, where our app plans out and advises users to sleep later or earlier each day to adjust to their Target Sleep Schedule in their Destination Timezone. Users can now monitor their light exposure and be advised to change their light exposure to better match their destination timezone. Users can also be informed of the optimal time to take melatonin. 
 
+Currently, users need to search for many different jet lag alleviation strategies. Our app presents three strategies very simply, and in clear nomenclature. However, interpretation by the user may be difficult, so we consider this task hard. 
+
 #Implementing Sleep Strategy (Hard) [Video]
 It will be the user's task to implement the sleep strategy that we provide. The watch will try to assist with this by providing gentle reminders of our suggested sleep, light, and melatonin schedules. 
+
+This is a very difficult task with or without this application. The app intends to make remembering to take these steps easier, but the actual task itself will still be difficult. 
 
 #Checking Sleep Schedule Details (Easy)
 Users can check out the details of the strategy that we provide them. The most important piece of information is when they should sleep each night. Other details to check includes their set target sleep time, the daylight cycle of their destination timezone, the current time in their origin and destination timezone, and their selected strategies. 
 Such information can be duplicated onto a custom watchface. 
 
+Without an app, keeping track of when you went to sleep can be difficult, requiring rigorous data tracking. Our app puts this information on a screen to be easily consumed. 
+
 #Evaluating Strategies (Moderate) [Video]
 After a sleep strategy has been implemented, users can record notes and rate the strategy on its effectiveness.
 
+Currently, people would need to record this on their own with their own system, making it moderately difficult. Our app would simply this by having a central location for this kind of information. 
+
 #View history of uses (Easy) [Video]
 Users should be able to access their sleep strategy logs from all of their trips. 
+Currently, people may have a hard time remembering how well certain strategies worked for them. Our app keeps track of this easily, in a simple interface. 
