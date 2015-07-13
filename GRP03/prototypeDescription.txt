@@ -1,0 +1,31 @@
+Our prototype demonstrates a user inputting travel information, inputting sleep schedules, selecting a sleep strategy, executing a sleep strategy with guidance of watch notifications, creating a review for a sleep strategy, and viewing a past sleep strategy review. These are the app's prominent tasks.
+
+[Input "Splash Screen" picture from Balsamiq]
+
+1. The app opens with the above splash screen.
+
+[Input "Entering User Trip Data" picture from Balsamiq]
+
+2. The user inputs his travel information. User chooses between two methods of input: (1) entering a current city and destination city, or (2) entering a travel date and flight number. 
+
+3. The user inputs his current and target sleep schedules. The user provides the times he regularly wakes up and goes to sleep in his current city. Then he provides the times he wants to wake up and go to sleep while at his destination city. 
+
+[Input "Strategy Selection" picture from Balsamiq]
+
+4. The user selects a sleep lag prevention strategy. A short description of each strategy is provided to the user so he can make an informed decision.
+
+[Input "Checking Sleep Schedule Details" picture from Balsamiq]
+
+5. The chosen strategy is displayed on the phone as a sequence of graphs. The graphs consist of the time of the user's current location, the time of the user's destination, a sine curve representing the daylight cycle of the destination time zone, and a striped area designating user sleep time. Each day has a unique goal, which is the striped area of time for which the user should be asleep. If the user sleeps in this alloted amount of time each day, then he will successfully adjust his sleep cycle to the time zone of his destination by his day of departure.
+
+[Input "Implementing Sleep Strategies" picture from Balsamiq]
+
+6. The user is sent notifications reminding him of specific actions to take to keep on track with his sleep strategy. Actions currently include when to wake up, when to go to sleep, when to take melatonin, and when to change the user's exposure to light. Further actions may be added with additional research on successful sleep lag prevention tactics. 
+
+[Input "Evaluating Strategies" picture from Balsamiq]
+
+7. After the user arrives at his destination, the user has the choice of writing a review on the effectiveness of the sleep strategy he used. This review is stored in the app for future reference. 
+
+[Input "Viewing History of Uses" picture from Balsamiq]
+
+8. The user can view his past sleep strategy reviews.
