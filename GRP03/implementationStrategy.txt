@@ -1,0 +1,5 @@
+Sleep Sentry is very capable of being a reality. Most of the logic of this application is very simple, and only involves simple arithmetic. Timezone calculations may be be difficult to calculate and understand, but we plan on using the TimeZone Android object to simplify many calcuations. Retreiving flight data from day of flight and flight number will require outside services, such as FlightXML, PlaneXML, or FlightStats. 
+
+Most graphical interface elements will be simple to produce. There may be challenges making the graph that represents daylight cycles. We may need to use one of several graphing libraries available, including GraphView, AndroidPlot, among many many others. 
+
+Watch interactions are similarly simple. The watch will serve as an input, in a way, by measuring heart rate, ambient light, and motion, all sensors that are available in the watch. Users will not input much textual information into the watch. What remains to be seen is if these sensors are fully active when the watchface is off. As an output, the watch will just provide reminders. 
