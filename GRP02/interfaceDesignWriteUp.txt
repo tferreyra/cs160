@@ -1,0 +1,41 @@
+[Maybe input picture of "Splash Screen" from Balsamiq]
+
+Functionality Summary:
+
+Sentry App helps users begin preparation for an adjusted sleep cycle in three easy steps. First, the user opens the smartphone app and provides his upcoming travel information, such as a date of departure, a place of departure, a place of arrival, and a flight number. Second, the user provides his sleep schedule in his current location and his desired sleep schedule when at his target destination. Third, the user views a list of sleep lag prevention strategies from which he chooses exactly one. The user has then successfully begun a sleep plan structured to adjust his sleep cycle in accordance to the time zone of his target destination. The user may use either his smartphone or his smartwatch to view a visual depiction of the sleep plan for which he will use to plan when to sleep, when to wake up, when to change his exposure to light, when to take melatonin, or when to do whatever instruction the app provides to keep him on his sleep plan. The user does not actively have to remember these scheduled activities though because the smartwatch app will send notifications reminding the user to do these sleep plan specfic actions. After completing a sleep plan and evaluating its sleep lag prevention effectiveness, the user can write and store a review of the sleep strategy in the app. The user may build a history of reviews for various sleep strategies and determine which strategies were most effective for him.
+
+User Interface:
+
+Sentry App focuses on being a discreet application. The initial setup of a sleep strategy involves basic data entry such as city names, times of flights, and sleep schedules. After these intial entries, the app runs in the background and occassionally sends notifications to the user's watch to remind him to do specific actions in accordance with his sleep strategy. The app mainly provides a set of reminders to guide the user in adjusting his sleep cycle to his destination time zone. 
+
+Scenario 1: Entering Travel Information and Sleep Schedules (Moderate Task)
+
+[Input pictures of "Entering user trip data" from Balsamiq]
+
+Suppose a user is traveling from San Francisco to Shanghai. The user opens the Sleep Sentry app to enter his travel information. The user is then prompted to choose one of two input methods: (1) inputting a current and destination city, or (2) inputting a flight number and travel date. The current and destination city entry is a convenient way for the user to quickly provide the app with current and destination time zones. The user uses text boxes to type in the city names. The flight number and travel date entry may give the user the inconvenience of looking up flight information, but it is beneficial to the user because it provides the app a current and destination city, but also the user's time of departure and arrival. This additional information may be integrated in the sleep strategy for the user. Once the travel information is inputted, the user enters his sleep schedule in his current location, including the time he wakes up and goes to sleep. Then the user inputs the sleep schedule he wants at his destination location. Once again, this is additional information needed by the app to produce an effective sleep strategy. It is important to streamline this gathering of information as much as possible.
+
+Scenario 2: Understanding and selecting strategies (Difficult Task)
+
+[Input pictures of "Strategy Selection" from Balsamiq]
+
+Suppose a user has finished entering his travel information and is prompted to select a sleep strategy. The user struggles selecting a strategy because he is unfamiliar with his choice of strategies. Luckily, each strategy choice is accompanied with a short description. If the user wants to learn more about a strategy, he can click on its short description, and a full description of the strategy will show up. After reading the description, the user may revert back to the list of strategies and either select a strategy, or further research other strategies. The central rationale behind giving users the choice of the optional strategies is that some users may be incapable of executing certain strategies. The variety of strategies ensures the existence at least one compatible strategy for every user.
+
+Scenario 3: Checking Sleep Schedule Details (Easy Task)
+
+[Input pictures of "Checking Sleep Schedule Details" from Balsamiq]
+
+After a user has completed the two previous tasks, he will be presented with his recommended sleep strategy. The sleep strategy will be expressed in a sequence of graphs. One graph will exist for every day between the current day to the day of departure. The user may swipe left or right to see his sleep schedule for different days. The graph shown has a sine curve which represents the daylight cycle of the user's destination time zone. The white and shaded areas of the graph indicate daytime and nighttime, respectively. The horizontal axis indicates time, and the Current and Destination time zones are displayed on the top and bottom of the graph, respectively. The striped portion of the graph indicates the portion of the day the app suggests the user be asleep. The user has successfully altered his sleep pattern to the destination time zone when the entire striped area lies in the part of the sine curve that is concave up. At the bottom of the screen, there is a checklist of what the user needs to do to follow his sleep strategy. Users can reference this section whenever they are curious about their sleep schedule. This page is to provide a centralized location for all the details of the sleep strategy. The graph is meant to help the user understand the sleep plan with a visual representation of what the sleep plan is trying to accomplish daily. The checklist mimicks the many todo apps that have been so successful in the app store.
+
+Additional Sketches:
+
+[Input pictures of "Implementing Sleep Strategies" from Balsamiq]
+
+The above are sketches of the different notifications the user will receive on his smartwatch. These notifications remind the user when to go to sleep, when to wake up, and when to do any additional actions to keep him on track with his sleep strategy. Each notification invokes a vibration, which is especially important when waking up a user who unintentionally fell asleep.
+
+[Input pictures of "Evaluating Strategies" from Balsamiq]
+
+The above is a user evaluation form sent to invoke feedback on the effectiveness of a particular sleep strategy. The app stores the user reviews for the user's to peruse in the future.
+
+[Input pictures of "Viewing history of uses" from Balsamiq]
+
+The above is a log of sleep strategy reviews. A user may select a review to see the old comments he gave to a tested sleep strategy.
