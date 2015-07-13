@@ -1,0 +1,45 @@
+Task Analysis
+
+1. Who is going to use system?
+
+The people who will use our system will be travelers from the U.S. who often travel across to different time zones and have difficulties in dealing with jet lag and/or  adjusting to the local time zone. Since we plan to target users who are still relatively new and unexperienced in traveling across different time zones, we anticiapte the age range for our target users to be from early 20's to early 30's. Ideally, anyone who suffers from jet lag and desires to combat it will be free to use the system. This app requires no formal knoweldge of any kind, so specific background skills are not expected of our users.
+
+2. What tasks do they now perform? 
+
+Travelers nowadays, especially if they are new to traveling across different time zones, do not know much about jet lag prevention, so they will simply travel without taking any precautions and deal with the full effects of jet lag upon arrival, viewing it as a necessary obstable that must be overcome when traveling. Those who are a bit more experienced and want to combat jet lag will search the web and educate themselves on strategies to prevent jet lag, but there is no guarantee if they manage to follow through with the stratgies due to the lack of a reliable reminder system. For veteran travelers, it is most often the case that jet lag no longer affects them due to their extensive traveling experience, or that they have figured out their own routine to combat jet lag through extended trial and error.
+
+3. What tasks are desired?
+
+Our group believes that the tasks desired involves a service that congregates all information regarding jet lag prevention into one place and delivers it to the users in a manner that is easy to understand. Since the adhering to jet lag prevention strategies ay prove difficult since it requires users to behave in a manner that is unfamiliar to them, a sort of reminder or notification service is also strongly desired to help users stay on track.
+
+4. How are the tasks learned?
+
+Some tasks should be intuitive, while others can be learned through a simple tutorial. Most of the data entry (user's sleep habits, traveling information) should be straightforward, but guidance may be needed in interpreting visual information and data (such as the sleep schedule, and what the graphs mean). While additional jet lag prevention strategies such as controlling light exposure or melatonin intake are tasks that users can learn from with a short description, more detailed information may need to be provided to help them understand how these strategies work. Users do not need any specialized knoweldge, but they should be adapt in interpreting visual information and understand basic cause-and-effect relationships to grasp how the information presented will help prevent jet lag.
+
+5. Where are the tasks performed?
+
+For the most part, users can perform these tasks whenever he or she is comfortable. Tasks such as entering sleep and travel information to intialize the app can be done anywhere, and it is expected for users to check their sleep schedules throughout the day in different locations. The users are also subject to receive notifcations about their sleep schedule regardless of their location. As for actually following the sleep strategies, it should be obvious that to control light exposure that users will need to be out in the sun or hidden away in the shade, and when following the sleep schedule the user can be anywhere when awake, although it assumed they will return to their own bed when it is time to sleep.
+
+6. What’s the relationship between user & data?
+
+The data involved in this app is personal data regarding the user's travel arrangements and sleep habits. For privacy reasons, personal data will be restricted to just the users themselves. Information is localized to the smartphone, so if the user wants to move between different devices, they will have to reinitialize the app with the same parameters on each smartphone that they use, although the user data entry should be a quick process. Switching smartwatches is not a concern since all the user's data is stored on the mobile device, so they are free to use whatever smartwatch they want as long as they can sync it to their mobile device.
+
+7. What other tools does the user have?
+
+Besides the smartphone and smartwatch we are using for the application, the only other resource users have to educate themselves about jet lag prevention is the Internet via mobile device or computer. The purpose of this mobile and wear design is to provide a convienient and efficient way to minimize the effects of jet lag, so there is no need to use other tools to faciliate interaction, since the smartphone and smartwatch are more than capable for this task.
+
+8. How do users communicate with each other?
+
+Since sleep schedules are rather personalzied to each person's sleep habits, their current and local destination, and their expected departure and arrival date and time, there is no need for users to communicate or share information with each other.
+
+9. How often are the tasks performed?
+
+Entering information regarding sleep habits is done only once when the user opens the app for the first time, while entering travel information will be done everytime the user plans to take a trip. The users is expected to check his or her sleep schedule several times throughout the day, and check the notifications and alarms as they appear to remind the user to stay on track. In terms of tasks regarding the actual following of the prescribed sleep strategies (actual sleep/wake, light exposure control, melatonin intake), the frequency will vary depending on the user's own unique sleep habits, their current and destination location, and how much time they have left until departure.
+
+10. What are the time constraints on the tasks?
+
+The time constraints is essentially how much time the user has left until he or she arrives at his or her intended destination. If the user knows that he or she will be traveling far ahead of time, he or she can choose to start adjusting to the destination's local time zone very early on, giving his or her body plenty of time to gradully adapt and combat the effects of jet lag more effectively. On the other hand, if the user only has one or two days to adjust, the change in sleep schedule will have to be more dramatic, which reduces its effectiveness.
+
+11. What happens when things go wrong?
+
+If the user fails to follow his or her sleep schedule, he or she will not properly be adjusted to the destination's time zone upon arrival, and a result, suffer from the effects as jet lag, including but not limited to grogginess, stress, unalertness, sleepiness, and poor decision making. As a result, the user may have to spend the first few days of his or her trip adjusting to the local time zone, which is a waste of valuable trip time. Another thing that can happen is that the prescribed sleep schedule and sleep strategies was not effective in preventing jet lag for the user. This is unfortunate, since the app, without knowing about an indiviudal's particular tolerances and response to certain strategies, can only intially prescribe the most generalized strategy that works on the most amount of people, but there are people who are outliers who do not repsond in the typical way. This is where the evaluation stage of the app becomes useful, because with that, the user can provide feedback to the app, which takes the feedback to make adjustments to the sleep strategies it prescribes to the user in future trips.
