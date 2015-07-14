@@ -12,7 +12,7 @@ Our prototype demonstrates a user inputting travel information, inputting sleep 
 
 [Input "Strategy Selection" picture from Balsamiq]
 
-4. The user selects a sleep lag prevention strategy. A short description of each strategy is provided to the user so he can make an informed decision.
+4. The user selects a jet lag prevention strategy. A short description of each strategy is provided to the user so he can make an informed decision.
 
 [Input "Checking Sleep Schedule Details" picture from Balsamiq]
 
@@ -20,7 +20,7 @@ Our prototype demonstrates a user inputting travel information, inputting sleep 
 
 [Input "Implementing Sleep Strategies" picture from Balsamiq]
 
-6. The user is sent notifications reminding him of specific actions to take to keep on track with his sleep strategy. Actions currently include when to wake up, when to go to sleep, when to take melatonin, and when to change the user's exposure to light. Further actions may be added with additional research on successful sleep lag prevention tactics. 
+6. The user is sent notifications reminding him of specific actions to take to keep on track with his sleep strategy. Actions currently include when to wake up, when to go to sleep, when to take melatonin, and when to change the user's exposure to light. Further actions may be added with additional research on successful jet lag prevention tactics. 
 
 [Input "Evaluating Strategies" picture from Balsamiq]
 
