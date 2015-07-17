@@ -1,0 +1,10 @@
+1. Hello! We are group of UC Berkeley students developing an application aimed to help travelers avoid jet lag. Today, we're going to ask you to help us evaluate a rough prototype of our application. 
+2. Your life will not be affected in anyway outside of this evaluation and you are free to leave any time you would like. 
+3. Right now, we only have rough images of what the basic functionality of the application will be like. The final product will include elements of this prototype but will visually be very different. 
+4. First, we'll demo a really simple task on the application so that you understand how the prototype works. We will simply select that we are going to be using flight data to calculate our timezone differences. [Do so]
+5. Now pretend like you are flying on flight HK203 on August 30, and try to set up a sleep schedule that will help you not be jet lagged when you arrive in Hong Kong. 
+6. Examine the different strategies available and tell me what you think it is saying. Which strategies appeal to you and why? Which would you select? 
+7. Next, examine the sleep plan provided, and tell me what you think it is saying. 
+8. Next, let us pretend that you are trying to implement this strategy, with this watch here. What do you think of these reminders? Do you think that you are likely to forget any of these tasks without reminders? How else would you try to remember? What other strategies have you tried? 
+9. Next, try evaluating your sleep plan.
+
