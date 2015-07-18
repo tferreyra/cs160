@@ -1,0 +1,11 @@
+# Methods
+Participant K is a recent graduate of engineering who travels often between New York, and San Francisco, as well as occassionally to Melbourne. He often struggles with jet lag when traveling to Melbourne, and has no difficulty adjusting when traveling to and from New York. 
+
+The testing environment was at participant K's home in El Cerrito. We used an iPhone loaded with images from Balsamiq. With each interface interaction. Interviewers changed the image on the phone to match the next screen. For the watch, interviewers held the phone to participant K's wrist with the watch faces available. Ianto was the only member present for this experiment, and so he acted as facilitator, observer, greeter, and computer. The procedure followed the script as closely as possible, with interruptions for questions and clarifications. 
+
+# Results
+Participant K, overall, did not find much difficulty in our interface. He chose to enter in fake flight information over entering in date of travel and timezones as he thought that way would be easier. He spent a relatively long time (~5 mins) studying different strategies available. He remarked that he wanted more information about our strategies, and perhaps references to show that they would work before dedicating himself to the plan that we came up with. He often asked the interviewer about the strategies. He had a difficult time intrepreting the chart as it is. There was not enough labeling for him to understand what everything in the chart meant. He remarked that the chart was too messy. He also missed the fact that the strategy was presented as days laid out over multiple pages. When reenacting the watch sensors, participant K felt that this was the most useful part of the application. He says that he is often forgetful and that these reminders would be invaluable. He did stumble with the watch face as it seemed too complicated. Finally, he found the evaluations easy to use, but that he would not naturally write or rate if he were to use our application. 
+
+#Conclusions
+Some people may be hard to convince of our strategy. We will need to make sure that we have a good amount of scientific support for the efficacy of our strategies. Overall, he seemed like someone who was excited to use our application. 
+
