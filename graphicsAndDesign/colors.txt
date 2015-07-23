@@ -1,0 +1,7 @@
+Colors: 
+
+Dark purple: #261C2B
+Dark blue: #292B39
+Dark teal: #226468
+Teal: #608D80
+Light teal: #829D8F
